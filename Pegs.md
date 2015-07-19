@@ -3,16 +3,16 @@ title: A decent page system starting point
 source: http://www.rememberg.com/search.php?search_query=2
 ---
 
-- __0__ :s, z - __z__ero, sounds like __S__
-- __1__ :t, d - __t__, has one down stroke, sounds like __D__
-- __2__ :n - __n__, two down strokes
-- __3__ :m - __m__, three down strokes
-- __4__ :r - FOU__r__
-- __5__ :l - 50 in Roman Numerals
-- __6__ :g, j - __g__ is a rotated 6, sounds like __J__
-- __7__ :k, c - __k__ a mirrored 7 on it's side, sounds like __C__
-- __8__ :f, v - __f__ mirror it on the diagonal to look like 8, sounds like v, also remember __f__8 (fate) worse than 8
-- __9__ :p, b - __p__ is a rotated 9, sounds like b
+- __0__ : s, z  __z__ero, sounds like __S__
+- __1__ : t, d  __t__, has one down stroke, sounds like __D__
+- __2__ : n  __n__, two down strokes
+- __3__ : m  __m__, three down strokes
+- __4__ : r  FOU__r__
+- __5__ : l  50 in Roman Numerals
+- __6__ : g, j  __g__ is a rotated 6, sounds like __J__
+- __7__ : k, c  __k__ a mirrored 7 on it's side, sounds like __C__
+- __8__ : f, v  __f__ mirror it on the diagonal to look like 8, sounds like v, also remember __f__8 (fate) worse than 8
+- __9__ : p, b  __p__ is a rotated 9, sounds like b
 
 ---
 
